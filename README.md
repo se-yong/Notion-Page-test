@@ -1,2 +1,2 @@
 # Notion-Page-test
-notion page nginx로 배포 테스트 레포지토리
+### notion page를 HTML 파일로 export 한 후 nginx로 배포하는 테스트
